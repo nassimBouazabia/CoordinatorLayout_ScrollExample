@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/cardview_dark_background">
+
+    <TextView
+        android:id="@+id/subject_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_gravity="left"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:background="#FFFFFF"
+        />
+
+</LinearLayout>
