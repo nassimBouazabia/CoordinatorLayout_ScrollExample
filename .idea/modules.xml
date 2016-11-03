@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScrollExample.iml" filepath="$PROJECT_DIR$/ScrollExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoordinatorLayout_ScrollExample.iml" filepath="$PROJECT_DIR$/CoordinatorLayout_ScrollExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
